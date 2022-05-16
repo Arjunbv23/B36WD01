@@ -1,0 +1,72 @@
+{
+    "firstName": "ARJUN",
+    "lastName": "B.V",
+    "email": "abcdABV@gmail.com",
+    "Age": 30,
+    "mobileNumber": [
+        9876543210,
+        6445554556
+    ],
+    "education": [
+        {
+            "type1": "SSE",
+            "schoolName1": "SBOA Matric Sec school"
+        },
+        {
+            "type2": "HSE",
+            "SchoolName2": "SBOA Matric Higher Sec School"
+        },
+        {
+            "type3": "college",
+            "collegeName": "SSNCE"
+        }
+    ],
+    "experience": [
+        {
+            "exp1": "Business Assistant(2018 - 2020)"
+        },
+        {
+            "exp2": "Business Associate(2020 - present)"
+        }
+    ],
+    "skills": [
+        {
+            "Writing and Documentation": "MS Office"
+        },
+        {
+            "spokenLanguages": [
+                "English",
+                "Tamil",
+                "Hindi"
+            ]
+        },
+        {
+            "programminglang": [
+                "C",
+                "python",
+                "Javascript",
+                "HTML & CSS",
+                "React JS framework",
+                "Node JS",
+                "Express JS",
+                "MongoDB & mySQL"
+            ]
+        },
+        {
+            "Design": [
+                "Figma",
+                "AdobeXD",
+                "Blender",
+                "krita",
+                "Adobe Suite"
+            ]
+        }
+    ],
+    "Hobbies": [
+        "Reading books",
+        "Art and Design",
+        "Cycling",
+        "Painting",
+        "story-telling"
+    ]
+}
